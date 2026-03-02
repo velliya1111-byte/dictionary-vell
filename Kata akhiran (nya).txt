@@ -76,7 +76,7 @@ belanjanya
 berkahnya
 berkasnya
 bidangnya
-birokrasi nya
+birokrasinya
 bonusnya
 cabangnya
 calonnya
@@ -838,4 +838,5 @@ pengetahuannya
 pengertiannya
 kepribadiannya
 kepercayaannya
+
 kebiasaannya
